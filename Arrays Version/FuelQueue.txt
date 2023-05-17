@@ -1,0 +1,5 @@
+Remaining Fuel Balance is 6580 liters
+
+Pump 1 Queue List = [sdgh, sdg, null, null, null, null]
+Pump 2 Queue List = [null, null, null, null, null, null]
+Pump 3 Queue List = [null, null, null, null, null, null]
