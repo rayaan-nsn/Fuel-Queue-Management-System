@@ -1,0 +1,61 @@
+
+_______________________________________________________________ 
+Remaining Fuel Balance is 6645 liters
+
+Pump 1 Queue List = Jane Paul, Kiara Advani, 
+Pump 2 Queue List = Ariana Grande, Chamath Aari, 
+Pump 3 Queue List = Rayaan Rilshad, Dinesh Karthik, 
+Pump 4 Queue List = Tharindu Kasun, 
+Pump 5 Queue List = Alvin Bernard, 
+_______________________________________________________________ 
+ 
+<-- Details of Jane Paul --> 
+First Name : Jane
+Second Name : Paul
+Vehicle Number : sdfgv
+Required Fuel Amount : 7
+
+<-- Details of Kiara Advani --> 
+First Name : Kiara
+Second Name : Advani
+Vehicle Number : sdafg
+Required Fuel Amount : 3
+
+<-- Details of Ariana Grande --> 
+First Name : Ariana
+Second Name : Grande
+Vehicle Number : sdgf
+Required Fuel Amount : 9
+
+<-- Details of Chamath Aari --> 
+First Name : Chamath
+Second Name : Aari
+Vehicle Number : sdffb
+Required Fuel Amount : 3
+
+<-- Details of Rayaan Rilshad --> 
+First Name : Rayaan
+Second Name : Rilshad
+Vehicle Number : dsg
+Required Fuel Amount : 6
+
+<-- Details of Dinesh Karthik --> 
+First Name : Dinesh
+Second Name : Karthik
+Vehicle Number : asdv
+Required Fuel Amount : 3
+
+<-- Details of Tharindu Kasun --> 
+First Name : Tharindu
+Second Name : Kasun
+Vehicle Number : sdgvb
+Required Fuel Amount : 5
+
+<-- Details of Alvin Bernard --> 
+First Name : Alvin
+Second Name : Bernard
+Vehicle Number : sd
+Required Fuel Amount : 9
+
+
+_______________________________________________________________ 
